@@ -15,7 +15,7 @@ This repository contains materials from our study. It includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Bitcoin-Bubbles.git
+   git clone https://github.com/yourusername/Risk-Management-of-Bitcoin-Bubbles.git
 2. Ensure all files are in the same directory.
-3. Open the Python notebook (BTC_Bubbles.iynb) using Jupyter Notebook or JupyterLab to explore the analysis.
-4. The notebook uses two datasets as input for statistical analysis and insights generation related to the relationship between Bitcoin price and the Fear and Greed Index during bubbles.
+3. Open the Python notebook using Jupyter Notebook or JupyterLab to explore the analysis.
+4. The notebook uses a dataset as input with Bitcoin price and the Fear and Greed Index.
