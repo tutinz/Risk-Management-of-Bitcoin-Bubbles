@@ -8,7 +8,7 @@ This repository contains materials from our study. It includes:
 
 ## Contents
 
-- `df.csv`: comprising Bitcoin prices, from January 2012 to September 2025.
+- `df.csv`: comprising Bitcoin prices, from 2018 to March 2026.
 - `DataAnalisys.iynb`: Python notebook for data analysis.
 
 ## How to Use
